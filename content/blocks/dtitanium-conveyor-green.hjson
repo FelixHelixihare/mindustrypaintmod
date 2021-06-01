@@ -1,0 +1,14 @@
+type: Conveyor
+name: Green Titanium Conveyor
+description: A green titanium conveyor belt. Colorful.
+health: 65
+requirements: [
+	copper/1
+	lead/1
+	titanium/1
+	chromium/1
+]
+category: distribution
+speed: 0.08
+displayedSpeed: 11
+research: dtitanium-conveyor-yellow

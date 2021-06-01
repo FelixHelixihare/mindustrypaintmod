@@ -1,0 +1,12 @@
+type: Conveyor
+name: Red Conveyor
+description: A red conveyor belt. Colorful.
+health: 45
+requirements: [
+	copper/1
+	chromium/1
+]
+category: distribution
+speed: 0.03
+displayedSpeed: 4.2
+research: conveyor

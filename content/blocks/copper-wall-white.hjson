@@ -1,0 +1,11 @@
+name: White Copper Wall
+description: A colored copper wall. Defensive and stylish.
+type: Wall
+health: 320
+size: 1
+requirements: [
+	copper/6
+	chromium/4
+]
+category: defense
+research: copper-wall

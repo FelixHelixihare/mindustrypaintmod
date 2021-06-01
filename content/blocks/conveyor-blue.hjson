@@ -1,0 +1,12 @@
+type: Conveyor
+name: Blue Conveyor
+description: A blue conveyor belt. Colorful.
+health: 45
+requirements: [
+	copper/1
+	chromium/1
+]
+category: distribution
+speed: 0.03
+displayedSpeed: 4.2
+research: conveyor

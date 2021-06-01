@@ -1,0 +1,11 @@
+name: Purple Titanium Wall
+description: A colored titanium wall. Defensive and stylish.
+type: Wall
+health: 440
+size: 1
+requirements: [
+	titanium/6
+	chromium/4
+]
+category: defense
+research: titanium-wall-blue

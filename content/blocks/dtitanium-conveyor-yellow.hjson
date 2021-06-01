@@ -1,0 +1,14 @@
+type: Conveyor
+name: Yellow Titanium Conveyor
+description: A yellow titanium conveyor belt. Colorful.
+health: 65
+requirements: [
+	copper/1
+	lead/1
+	titanium/1
+	chromium/1
+]
+category: distribution
+speed: 0.08
+displayedSpeed: 11
+research: titanium-conveyor

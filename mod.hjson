@@ -1,0 +1,7 @@
+name: MindustryPaintMod
+displayname: "Fil's [gold]Paint[] Mod"
+author: "FelixHelixihare"
+description: "Placeholder"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]

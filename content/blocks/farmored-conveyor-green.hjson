@@ -1,0 +1,14 @@
+type: ArmoredConveyor
+name: Green Armored Conveyor
+description: A green armored conveyor belt. Colorful.
+health: 180
+requirements: [
+	plastanium/1
+	thorium/1
+	metaglass/1
+	chromium/1
+]
+category: distribution
+speed: 0.08
+displayedSpeed: 11
+research: farmored-conveyor-yellow

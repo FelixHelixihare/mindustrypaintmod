@@ -1,0 +1,14 @@
+type: Conveyor
+name: Black Titanium Conveyor
+description: A black titanium conveyor belt. Colorful.
+health: 65
+requirements: [
+	copper/1
+	lead/1
+	titanium/1
+	chromium/1
+]
+category: distribution
+speed: 0.08
+displayedSpeed: 11
+research: titanium-conveyor

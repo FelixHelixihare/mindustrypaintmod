@@ -1,0 +1,14 @@
+type: StackConveyor
+name: Green Plastanium Conveyor
+description: A green plastanium conveyor belt. Colorful.
+health: 75
+requirements: [
+	plastanium/1
+	silicon/1
+	graphite/1
+	chromium/1
+]
+category: distribution
+speed: 0.067
+itemCapacity: 10
+research: eplastanium-conveyor-yellow

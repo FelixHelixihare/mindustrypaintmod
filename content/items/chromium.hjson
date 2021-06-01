@@ -1,0 +1,6 @@
+type: material
+name: Chromium
+description: A shiny metal with the wonderful property of being able to turn to almost any color. Extensively used in making paints.
+hardness: 1
+cost: 0.75
+color: d8d8d8

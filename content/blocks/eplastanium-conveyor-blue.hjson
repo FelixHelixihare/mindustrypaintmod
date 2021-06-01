@@ -1,0 +1,14 @@
+type: StackConveyor
+name: Blue Plastanium Conveyor
+description: A blue plastanium conveyor belt. Colorful.
+health: 75
+requirements: [
+	plastanium/1
+	silicon/1
+	graphite/1
+	chromium/1
+]
+category: distribution
+speed: 0.067
+itemCapacity: 10
+research: plastanium-conveyor

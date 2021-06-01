@@ -1,0 +1,14 @@
+type: ArmoredConveyor
+name: Grey Armored Conveyor
+description: A grey armored conveyor belt. Colorful.
+health: 180
+requirements: [
+	plastanium/1
+	thorium/1
+	metaglass/1
+	chromium/1
+]
+category: distribution
+speed: 0.08
+displayedSpeed: 11
+research: armored-conveyor
