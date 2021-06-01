@@ -9,6 +9,6 @@ requirements: [
 	chromium/1
 ]
 category: distribution
-speed: 4 / 60
+speed: 0.067
 itemCapacity: 10
 research: plastanium-conveyor
