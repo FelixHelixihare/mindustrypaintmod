@@ -1,7 +1,7 @@
 name: Fil's Paint Mod
 displayname: "Fil's [gold]Paint[] Mod"
 author: "FelixHelixihare"
-description: "Placeholder"
+description: "A mod that adds colored walls and conveyors."
 version: "1.0"
 minGameVersion: "126.2"
 dependencies: [ ]
