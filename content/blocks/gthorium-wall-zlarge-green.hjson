@@ -1,0 +1,10 @@
+name: Large Green Thorium Wall
+description: A colored thorium wall. Defensive and stylish.
+type: Wall
+health: 3200
+size: 2
+requirements: [
+	thorium/24
+]
+category: defense
+research: gthorium-wall-green

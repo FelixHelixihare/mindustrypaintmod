@@ -1,0 +1,12 @@
+name: Black Phase Wall
+description: A colored phase wall. Defensive and stylish.
+type: Wall
+health: 600
+size: 1
+requirements: [
+	phase-fabric/6
+]
+chanceDeflect: 10
+flashHit: true
+category: defense
+research: phase-wall

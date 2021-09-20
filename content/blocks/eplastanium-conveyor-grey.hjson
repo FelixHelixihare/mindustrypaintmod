@@ -6,7 +6,6 @@ requirements: [
 	plastanium/1
 	silicon/1
 	graphite/1
-	chromium/1
 ]
 category: distribution
 speed: 0.067

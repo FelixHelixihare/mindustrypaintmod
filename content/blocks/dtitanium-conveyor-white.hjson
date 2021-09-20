@@ -6,7 +6,6 @@ requirements: [
 	copper/1
 	lead/1
 	titanium/1
-	chromium/1
 ]
 category: distribution
 speed: 0.08

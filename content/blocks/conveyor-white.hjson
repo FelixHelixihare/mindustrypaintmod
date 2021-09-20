@@ -4,7 +4,6 @@ description: A white conveyor belt. Colorful.
 health: 45
 requirements: [
 	copper/1
-	chromium/1
 ]
 category: distribution
 speed: 0.03

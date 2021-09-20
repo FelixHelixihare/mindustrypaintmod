@@ -1,0 +1,14 @@
+name: Green Plastanium Wall
+description: A colored plastanium wall. Defensive and stylish.
+type: Wall
+health: 520
+size: 1
+requirements: [
+	plastanium/5
+	metaglass/2
+]
+insulated: true
+absorbLasers: true
+schematicPriority: 10
+category: defense
+research: eplastanium-wall-yellow

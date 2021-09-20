@@ -6,7 +6,6 @@ requirements: [
 	plastanium/1
 	thorium/1
 	metaglass/1
-	chromium/1
 ]
 category: distribution
 speed: 0.08

@@ -1,0 +1,10 @@
+name: Large Black Titanium Wall
+description: A large colored titanium wall. Defensive and stylish.
+type: Wall
+health: 1760
+size: 2
+requirements: [
+	titanium/24
+]
+category: defense
+research: dtitanium-wall-black

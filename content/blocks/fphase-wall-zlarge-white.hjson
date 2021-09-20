@@ -1,0 +1,12 @@
+name: Large White Phase Wall
+description: A colored phase wall. Defensive and stylish.
+type: Wall
+health: 2400
+size: 2
+requirements: [
+	phase-fabric/24
+]
+chanceDeflect: 10
+flashHit: true
+category: defense
+research: fphase-wall-white

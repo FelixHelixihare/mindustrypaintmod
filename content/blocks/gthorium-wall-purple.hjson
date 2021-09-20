@@ -1,0 +1,10 @@
+name: Purple Thorium Wall
+description: A colored thorium wall. Defensive and stylish.
+type: Wall
+health: 800
+size: 1
+requirements: [
+	thorium/6
+]
+category: defense
+research: gthorium-wall-blue

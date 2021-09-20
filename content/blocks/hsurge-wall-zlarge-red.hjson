@@ -1,0 +1,11 @@
+name: Large Red Surge Wall
+description: A colored surge wall. Defensive and stylish.
+type: Wall
+health: 3680
+size: 2
+requirements: [
+	surge-alloy/24
+]
+lightningChance: 0.05
+category: defense
+research: hsurge-wall-red

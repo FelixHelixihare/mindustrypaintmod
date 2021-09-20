@@ -1,0 +1,11 @@
+name: Yellow Surge Wall
+description: A colored surge wall. Defensive and stylish.
+type: Wall
+health: 920
+size: 1
+requirements: [
+	surge-alloy/6
+]
+lightningChance: 0.05
+category: defense
+research: surge-wall

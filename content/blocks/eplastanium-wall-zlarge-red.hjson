@@ -1,0 +1,14 @@
+name: Large Red Plastanium Wall
+description: A colored plastanium wall. Defensive and stylish.
+type: Wall
+health: 2080
+size: 2
+requirements: [
+	plastanium/20
+	metaglass/8
+]
+insulated: true
+absorbLasers: true
+schematicPriority: 10
+category: defense
+research: eplastanium-wall-red

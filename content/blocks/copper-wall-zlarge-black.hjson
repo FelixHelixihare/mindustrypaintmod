@@ -5,7 +5,6 @@ health: 1280
 size: 2
 requirements: [
 	copper/24
-	chromium/16
 ]
 category: defense
 research: copper-wall-black
